@@ -1,4 +1,3 @@
-from cProfile import label
 from transformers import AutoTokenizer, AutoModelForTokenClassification
 from typing import List
 
